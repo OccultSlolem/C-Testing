@@ -1,2 +1,2 @@
 # C-Testing
-Messing around in C
+Just messing around, not much to see here tbh 🤷
